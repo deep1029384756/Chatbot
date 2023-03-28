@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+//color variables
+$navcolor : #075e55;
+$display : #eae5e1;
+$text:#e2fdca;
+$respond : whitesmoke;
+
+@import "./sass/header";
+@import "./sass/chatbot"

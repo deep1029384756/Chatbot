@@ -1,0 +1,23 @@
+.header{
+    height: 10vh;
+    width:100%;
+    background-color: $display;
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .list{
+        font-size: 30px;
+        color:$navcolor
+    }
+}
+.homepage{
+    height:90vh;
+    width:100%;
+    text-align: center;
+    color: $navcolor;
+    font-size: 90px;
+   // background-image: url("../images/img1.jpg");
+    background-size: 100%;
+}
+
